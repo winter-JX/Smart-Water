@@ -1,0 +1,4 @@
+{
+    "device_id": "667e64916bc31504f070fa26_jetson_nano",
+    "secret": "bc8164cb3331a3e8dd8ce332d35b263f"
+}
